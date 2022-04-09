@@ -4,8 +4,8 @@ Designer and Front-end developer currently working at [2na8](https://2na8.com) a
 ---
 
 ## What do I use?
-**Design Stack:** Figma and Affinity
-**Code Stack:** Angular, React, Svelte, SCSS and Firebase
+- **Design Stack:** Figma and Affinity
+- **Code Stack:** Angular, React, Svelte, SCSS and Firebase
 
 ---
 
@@ -16,7 +16,7 @@ Designer and Front-end developer currently working at [2na8](https://2na8.com) a
 
 ---
 
-## Things i've been enjoying latelty
+## Things i've been enjoying lately
 - Civlization V and VI
 - Fallout 4
 - Dead Cells
