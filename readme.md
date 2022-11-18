@@ -1,5 +1,5 @@
 # Hello, i'm Guilherme Kaiser
-Designer and Front-end developer currently working at [2na8](https://2na8.com) and studying [Digital Games at Descomplica](https://descomplica.com.br/faculdade/tecnologia/jogos-digitais/)
+Designer and Front-end developer currently working at [2na8](https://2na8.com)
 
 ---
 
