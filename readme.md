@@ -5,21 +5,12 @@ Designer and Front-end developer currently working at [2na8](https://2na8.com)
 
 ## What do I use?
 - **Design Stack:** Figma and Affinity
-- **Code Stack:** Angular, React, Svelte, SCSS and Firebase
-
----
-
-## Some projects
-- [Hotel Petrópolis](https://hotelpetropolis.com.br)
-- [SCL Automação](https://scla.com.br)
-- [GrantShares](https://grantshares.io)
+- **Code Stack:** Angular, Vue, SCSS and Firebase
 
 ---
 
 ## Things i've been enjoying lately
-- Civlization V and VI
-- Fallout 4
-- Dead Cells
+- Civlization V
 - VCV Rack
 - King Gizzard and The Lizard Wizzard
 - Yoga
