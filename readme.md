@@ -1,6 +1,6 @@
 # Hello, i'm Guilherme Kaiser
-Designer and Front-end developer working at [2na8](https://2na8.com)
-Studying at IFSUL - Associate Degree in Web Development
+- Designer and Front-end developer working at [2na8](https://2na8.com)
+- Studying at IFSUL - Associate Degree in Web Development
 
 ---
 
