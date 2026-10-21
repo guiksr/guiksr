@@ -6,12 +6,13 @@
 
 ## What do I use?
 - **Design Stack:** Figma and Affinity
-- **Code Stack:** Angular, Vue, SCSS and Firebase
+- **Code Stack:** Vue, PHP, Svelte, Rust, SCSS and Firebase
 
 ---
 
 ## Things i've been enjoying lately
 - Civlization V
 - King Gizzard and The Lizard Wizzard
-- Running
+- Guitar
 - Yoga
+- Basketball
